@@ -1,19 +1,32 @@
 {
   "name": "sigongjoa",
-  "version": "1.0.0",
-  "description": "시.공.조.아",
+  "version": "0.0.1",
+  "description": "Make Description with sigongjoa Style",
   "main": "index.js",
+  "bin": {
+    "sigongjoa": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hg-pyun/sigongjoa.git"
   },
   "author": "Haegul Pyun",
   "license": "MIT",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "generator",
+    "description",
+    "sigongjoa"
+  ],
   "bugs": {
     "url": "https://github.com/hg-pyun/sigongjoa/issues"
   },
   "homepage": "https://github.com/hg-pyun/sigongjoa#readme",
+  "dependencies": {
+    "commander": "^2.16.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node lib/index.js react -d temp"
   }
 }
