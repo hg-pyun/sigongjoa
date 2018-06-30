@@ -27,6 +27,6 @@
     "commander": "^2.16.0"
   },
   "scripts": {
-    "test": "node lib/index.js react -d temp"
+    "test": "node lib/index.js 시공의,폭풍은,정말,최고야!"
   }
 }
