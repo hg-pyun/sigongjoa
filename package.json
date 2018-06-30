@@ -1,6 +1,6 @@
 {
   "name": "sigongjoa",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Make Description with sigongjoa Style",
   "main": "index.js",
   "bin": {
