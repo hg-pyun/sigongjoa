@@ -5,6 +5,9 @@
 
 *고급 레스토랑체* 를 터미널로 간편하게!
 
+# What is 시.공.조.아?
+[![Video Label](https://user-images.githubusercontent.com/10627668/42126101-35396a44-7cbd-11e8-8e25-3aa1edb9e0ac.JPG)](https://www.youtube.com/watch?v=2MwG0wvjlz4) 
+
 # Install
 시.공.조.아를 사용하기 위해서는 [nodejs](https://nodejs.org)가 필요합니다.
 ```
