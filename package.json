@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hg-pyun/sigongjoa#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "commander": "^2.16.0"
   },
   "scripts": {
