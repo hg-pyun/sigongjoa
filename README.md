@@ -3,9 +3,10 @@
 
 ![시공조아](https://raw.githubusercontent.com/hg-pyun/sigongjoa/master/img/sigongjoa.png)
 
-*고급 레스토랑체* 를 터미널로 간편하게!
+*[고급 레스토랑체](https://namu.wiki/w/%EA%B4%91%EA%B3%A0%EC%B2%B4)* 를 터미널로 간편하게!
 
 # What is 시.공.조.아?
+Click the picture.
 [![Video Label](https://user-images.githubusercontent.com/10627668/42126101-35396a44-7cbd-11e8-8e25-3aa1edb9e0ac.JPG)](https://www.youtube.com/watch?v=2MwG0wvjlz4) 
 
 # Install
